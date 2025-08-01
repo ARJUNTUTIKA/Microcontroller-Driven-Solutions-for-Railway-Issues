@@ -3,5 +3,4 @@ This project addressed railway challenges using the 8051 microcontroller to enha
 
 
 
- [watch final railway output]
- (./final railwayoutput.mp4)
+ [watch final railway output] (./final railwayoutput.mp4)
